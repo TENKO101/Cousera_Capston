@@ -1,2 +1,2 @@
-# Coursera Capstone Project, The Battle of Neighborhoods in Applied Data Science
+# Capstone Project-The Battle of Neighborhoods in Houston TX Sushi Restaurants
 
