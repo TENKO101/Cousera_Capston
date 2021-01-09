@@ -1,0 +1,86 @@
+﻿FID,OBJECTID,PERIMETER,POLYID,SNBNAME,population,Income,cohgisCOHG,cohgisCO_1,COUNCIL_AC,RECOGNITIO,SnbrInfoUR,WeCan,Top10,Shape__Area,Shape__Length
+33,35,87815.58,6,ACRES HOME,25828,39269,0,0,Yes,2000-05-11T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_6.htm,Y,Y,30965399.61,30922.63134
+88,48,145251.999,9,ADDICKS PARK TEN,19683,80584,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_9.htm, , ,80912762.59,51048.74644
+83,86,63736.5,23,AFTON OAKS / RIVER OAKS AREA,14518,95682,0,0,No,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_23.htm, , ,12452213.47,22419.0082
+53,56,94862.716,25,ALIEF,106657,41833,0,0,Yes,2000-06-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_25.htm,Y, ,48692933.55,33341.56369
+61,64,49215.228,34,ASTRODOME AREA,18223,46284,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_34.htm,Y,Y,10946109.22,17299.84425
+58,61,47833.624,30,BRAEBURN,18843,42958,0,0,Yes,2008-05-13T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_30.htm, , ,8389106.164,16806.89991
+79,82,40086.762,32,BRAESWOOD,21835,93748,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_32.htm, , ,10752133.07,14091.3209
+50,53,77540.802,36,BRAYS OAKS,64548,42414,0,0,Yes,2000-08-24T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_36.htm, , ,27129769.89,27240.44643
+84,87,63745.3,18,BRIAR FOREST,43018,76462,0,0,Yes,2009-08-11T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_18.htm, , ,23195551.71,22403.91723
+30,32,56176.32,3,CARVERDALE,3903,68107,0,0,No,2003-09-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_3.htm,Y, ,10414616.92,19789.638
+28,30,83851.206,12,CENTRAL NORTHWEST,41993,62750,0,0,Yes,2010-10-12T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_12.htm, , ,29851706.31,29496.37009
+51,54,117635.91,40,CENTRAL SOUTHWEST,66918,47057,0,0,Yes,2000-05-11T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_40.htm, , ,81730940.43,41308.17694
+55,58,156942.093,81,CLEAR LAKE,620268,84710,0,0,Yes,2010-07-27T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_81.htm, , ,83065716.5,55108.7727
+4,4,59784.698,59,CLINTON PARK TRI-COMMUNITY,3140,31826,0,0,Yes,2000-11-20T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_59.htm,Y, ,9469459.297,21037.81681
+12,13,80879.515,56,DENVER HARBOR / PORT HOUSTON,17571,29273,0,0,No,2001-06-05T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_56.htm,Y, ,22048673.08,28469.51597
+3,3,39256.388,61,DOWNTOWN,12088,71666,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_61.htm, , ,9340699.352,13810.97489
+32,34,81176.06,49,EAST HOUSTON,18580,31826,0,0,Yes,2000-08-24T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_49.htm,Y, ,36887552.33,28580.09165
+36,38,83347.43,47,EAST LITTLE YORK / HOMESTEAD,19607,36003,0,0,Yes, ,http://www.houstontx.gov/superneighborhoods/profiles/SN_47.htm, , ,23870520.25,29358.75022
+31,33,71061.565,46,EASTEX - JENSEN AREA,25724,32923,0,0,No,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_46.htm,Y,Y,26558098.69,25036.76395
+81,84,38704.285,79,EDGEBROOK AREA,23584,45982,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_79.htm, , ,10326080.87,13591.0167
+22,24,57859.757,53,EL DORADO / OATES PRAIRIE,3852,39216,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_53.htm, , ,15537299.89,20338.98201
+9,10,212370.594,17,ELDRIDGE / WEST OAKS,72347,79787,0,0,Yes,2010-12-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_17.htm, , ,101360399,74638.69747
+42,44,73300.982,4,FAIRBANKS / NORTHWEST CROSSING,18007,38905,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_4.htm, , ,23868999.09,25796.9141
+47,50,28114.627,39,FONDREN GARDENS,2730,53968,0,0,Yes,2000-05-11T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_39.htm, , ,4189443.859,9874.260714
+46,49,81085.41,41,FORT BEND HOUSTON,33630,53105,0,0,No,2002-06-20T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_41.htm, , ,25905211.45,28457.53756
+1,1,16572.025,60,FOURTH WARD,4085,88231,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_60.htm,Y, ,1604604.996,5831.531127
+8,8,60053.707,73,GOLFCREST / BELLFORT / REVEILLE,51432,34731,0,0,Yes,2001-03-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_73.htm, , ,31687102.84,25040.02838
+77,80,31864.779,64,GREATER EASTWOOD,10776,48426,0,0,Yes,2000-06-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_64.htm,Y, ,6464955.613,11199.69214
+11,12,55192.156,55,GREATER FIFTH WARD,19687,30535,0,0,Yes,2000-11-20T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_55.htm,Y,Y,17211588.6,19415.13532
+38,40,117958.273,2,GREATER GREENSPOINT,41392,33909,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_2.htm, , ,24074543.49,41574.23215
+16,17,67130.734,15,GREATER HEIGHTS,41362,80048,0,0,Yes,2000-03-06T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_15.htm, , ,25252106.71,23606.68132
+7,7,637.881,78,GREATER HOBBY AREA,25385,50832,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_78.htm, , ,41556741.64,30498.19998
+6,6,113669.041,5,GREATER INWOOD,37056,43130,0,0,Yes,2000-05-11T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_5.htm, , ,23125810.4,40035.36603
+62,65,47349.751,68,GREATER OST / SOUTH UNION,19141,34019,0,0,Yes,2006-02-14T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_68.htm, , ,14925155.13,16631.215
+75,78,40699.213,67,GREATER THIRD WARD,14295,40523,0,0,Yes,2002-06-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_67.htm,Y,Y,9973228.242,14308.13811
+5,5,75759.39,21,GREATER UPTOWN,50731,83399,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_21.htm, , ,28429186.6,26654.63615
+74,77,48738.213,87,GREENWAY / UPPER KIRBY AREA,21120,100274,0,0,No,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_87.htm, , ,10230342.27,17126.83825
+68,71,44697.039,69,GULFGATE RIVERVIEW / PINE VALLEY,12723,32595,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_69.htm,Y, ,9756839.707,15711.61864
+66,69,48622.413,27,GULFTON,41089,52037,0,0,No,2000-06-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_27.htm,Y, ,9759892.668,17095.30726
+69,72,44994.775,65,HARRISBURG / MANCHESTER,2926,37359,0,0,No,2000-11-20T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_65.htm,Y, ,8351284.801,15810.02605
+35,37,28102.301,7,HIDDEN VALLEY,3569,34452,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_7.htm, , ,3044023.613,9907.83352
+24,26,30493.459,54,HUNTERWOOD,1951,48670,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_54.htm, , ,4551068.938,10728.56098
+27,29,42365.115,13,INDEPENDENCE HEIGHTS,13728,42813,0,0,Yes,2001-06-05T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_13.htm,Y,Y,11794994.5,14915.21938
+17,18,52352.042,52,KASHMERE GARDENS,10055,23102,0,0,Yes,2000-03-06T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_52.htm,Y, ,13925105.74,18402.98397
+41,43,429584.145,44,LAKE HOUSTON,22280,95074,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_44.htm, , ,121834961.3,151455.2925
+26,28,33997.809,11,LANGWOOD,9744,42766,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_11.htm, , ,4344487.781,11965.17772
+73,76,35165.833,88,LAWNDALE / WAYSIDE,12982,35968,0,0,Yes,2000-06-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_88.htm,Y, ,9723024.801,12357.97208
+15,16,47186.948,14,LAZYBROOK / TIMBERGROVE,13099,80032,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_14.htm, , ,12127299.53,16448.96298
+67,70,47616.773,83,MACGREGOR,18459,63118,0,0,Yes,2005-03-14T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_83.htm, , ,11617766.61,16729.75923
+82,85,40738.538,82,MAGNOLIA PARK,16999,32039,0,0,No,2000-11-20T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_82.htm,Y,Y,8721661.195,14328.32225
+64,67,83449.25,75,MEADOWBROOK / ALLENDALE,24134,41732,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_75.htm, , ,23704664.68,29340.40055
+65,68,33796.029,33,MEDICAL CENTER AREA,2717,82830,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_33.htm, , ,6039181.234,11887.1768
+86,9,136644.963,16,MEMORIAL,47604,94927,0,0,Yes,2010-12-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_16.htm, , ,34070939.29,46309.9777
+80,83,53183.903,31,MEYERLAND AREA,21445,81408,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_31.htm, , ,14145107.8,18679.82666
+76,79,70198.434,20,MID WEST,50017,53102,0,0,Yes,2008-09-09T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_20.htm, , ,18622413.37,24676.52692
+78,81,27528.497,62,MIDTOWN,8597,77261,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_62.htm, , ,4290520.543,9680.574045
+18,19,80038.578,77,MINNETEX,6303,45109,0,0,Yes,2001-03-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_77.htm,Y, ,28811438.27,28133.65054
+72,75,16994.764,66,MUSEUM PARK,5509,101703,0,0,Yes,2010-05-18T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_66.htm, , ,1935884.918,5978.558671
+19,20,50141.033,51,NEAR NORTHSIDE,59410,33713,0,0,No,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_51.htm,Y, ,14987704.75,17659.50558
+85,88,38737.33,24,NEARTOWN - MONTROSE,31037,85296,0,0,Yes,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_24.htm, , ,11276448.2,13627.71238
+14,15,110804.437,58,NORTHSHORE,28790,41497,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_58.htm, , ,31989728.49,38973.23697
+34,36,102420.982,45,NORTHSIDE/NORTHLINE,59410,33713,0,0,No,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_45.htm, ,Y,34985395.42,36090.30126
+63,66,41012.682,74,PARK PLACE,9898,37486,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_74.htm, , ,6378505.805,14412.1313
+54,57,28105.214,70,PECAN PARK,16245,34622,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_70.htm, , ,5734192.664,9871.264345
+13,14,47322.95,57,PLEASANTVILLE AREA,2860,32899,0,0,Yes,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_57.htm, , ,12220831.21,16667.52294
+2,2,43118.77,63,SECOND WARD,13139,39146,0,0,Yes,2008-05-13T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_63.htm,Y,Y,9946346.129,15159.73197
+25,27,33779.628,50,SETTEGAST,2981,28821,0,0,Yes,2000-08-24T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_50.htm,Y, ,6898101.84,11896.71682
+44,46,72720.943,26,SHARPSTOWN,77220,33086,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_26.htm, , ,29414563.79,25618.51221
+49,52,71756.689,76,SOUTH ACRES / CRESTMONT PARK,19137,46175,0,0,Yes,2000-03-06T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_76.htm, , ,23238944.38,25210.11398
+48,51,161035.331,80,SOUTH BELT / ELLINGTON,64667,57488,0,0,No,2001-10-15T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_80.htm, , ,71436744.29,56551.10526
+59,62,47081.994,35,SOUTH MAIN,6006,50934,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_35.htm, , ,9633465.816,16544.02335
+60,63,55769.223,72,SOUTH PARK,21208,29475,0,0,Yes,2000-03-06T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_72.htm,Y, ,15060839.47,19602.83668
+23,25,57315.513,85,SPRING BRANCH CENTRAL,28080,53651,0,0,Yes,2000-08-24T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_85.htm, , ,12906739.37,20184.82158
+20,21,57962.346,86,SPRING BRANCH EAST,26877,65467,0,0,Yes,2000-05-11T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_86.htm, , ,21103293.77,20397.46765
+21,23,43303.814,84,SPRING BRANCH NORTH,20942,52122,0,0,Yes,2005-03-14T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_84.htm, , ,11663328,15235.47965
+87,22,72548.445,10,SPRING BRANCH WEST,31878,71534,0,0,Yes,2000-05-11T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_10.htm, , ,28357758.17,33952.95065
+52,55,67155.805,71,SUNNYSIDE,20071,35990,0,0,Yes,2000-03-06T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_71.htm,Y,Y,21852826.01,23604.49981
+29,31,58565.13,48,TRINITY / HOUSTON GARDENS,15798,27789,0,0,Yes,2001-03-22T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_48.htm,Y, ,23716026.86,20614.63135
+70,73,40113.96,28,UNIVERSITY PLACE,16342,111510,0,0,No,2000-03-06T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_28.htm, , ,9526194.559,14108.50776
+10,11,88194.439,22,WASHINGTON AVENUE COALITION / MEMORIAL PARK,29033,99302,0,0,Yes,2000-03-06T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_22.htm, , ,27651487.91,30863.83007
+43,45,31832.84,8,WESTBRANCH,3633,81240,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_8.htm, , ,4769620.613,11200.99705
+56,59,42778.309,37,WESTBURY,20963,62120,0,0,Yes,2005-03-14T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_37.htm, , ,12737775.29,15030.51612
+71,74,48181.159,19,WESTCHASE,29149,48898,0,0,Yes,2010-10-12T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_19.htm, , ,14897004.98,16925.02734
+45,47,38113.022,29,WESTWOOD,19530,29527,0,0,Yes,2008-09-09T00:00:00.000Z,http://www.houstontx.gov/superneighborhoods/profiles/SN_29.htm,Y, ,7514035.238,13464.63568
+57,60,43226.715,38,WILLOW MEADOWS / WILLOWBEND AREA,14014,59659,0,0, , ,http://www.houstontx.gov/superneighborhoods/profiles/SN_38.htm, , ,10992898.49,15196.70997
